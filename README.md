@@ -2,7 +2,7 @@
 
 Hi, I'm a web developer and automation engineer from Hamburg. I like building clean UIs, automating everything that's annoying to do twice, and in my spare time I do GTA game modding.
 
-# Projects
+# Stuff I did (projects)
 
 ## Legacy
 
@@ -12,19 +12,19 @@ Legacy was a German multiplayer server for GTA San Andreas, running on open.mp. 
 
 | Area | What it is | Stack |
 | --- | --- | --- |
-| [Launcher](#launcher) | Desktop app to start the game and manage mods | ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) |
-| [Control Panel](#control-panel) | Community website connected to the game database | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) |
-| [Keycloak Theme](#keycloak-theme) | Custom login and registration pages | ![Keycloakify](https://img.shields.io/badge/Keycloakify-4D4D4D?logo=keycloak&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
-| [open.mp Install & Connection Guide](#openmp-install--connection-guide) | Animated setup guide, built entirely for the web | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) |
-| [Windows Security Settings Animations](#windows-security-settings-animations) | Animated troubleshooting for common Windows issues | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) |
-| [Forum](#forum) | Custom forum design | ![WoltLab Suite](https://img.shields.io/badge/WoltLab_Suite-1A5A96) |
+| [Launcher](#launcher) | Desktop app to start the game and manage mods | [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white)](https://tauri.app) [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org) |
+| [Control Panel](#control-panel) | Community website connected to the game database | [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io) |
+| [Keycloak Theme](#keycloak-theme) | Custom login and registration pages | [![Keycloakify](https://img.shields.io/badge/Keycloakify-4D4D4D?logo=keycloak&logoColor=white)](https://www.keycloakify.dev) [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev) |
+| [open.mp Install & Connection Guide](#openmp-install--connection-guide) | Animated setup guide, built entirely for the web | [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)](https://motion.dev) |
+| [Windows Security Settings Animations](#windows-security-settings-animations) | Animated troubleshooting for common Windows issues | [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)](https://motion.dev) |
+| [Forum](#forum) | Custom forum design | [![WoltLab Suite](https://img.shields.io/badge/WoltLab_Suite-1A5A96)](https://www.woltlab.com) |
 
 ---
 
 ### Launcher
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 
 Desktop launcher for a SA:MP / open.mp server.
 
@@ -47,16 +47,16 @@ Desktop launcher for a SA:MP / open.mp server.
 
 ### Control Panel
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)](https://www.heroui.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io)
+[![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 Community website and control panel for the server, connected to the game database.
 
@@ -83,9 +83,9 @@ Community website and control panel for the server, connected to the game databa
 
 ### Keycloak Theme
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![Keycloakify](https://img.shields.io/badge/Keycloakify-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Keycloakify](https://img.shields.io/badge/Keycloakify-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloakify.dev)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 Custom theme for the Keycloak login and registration pages.
 
@@ -102,12 +102,12 @@ Custom theme for the Keycloak login and registration pages.
 
 ### open.mp Install & Connection Guide
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://motion.dev)
+[![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev)
 
 Interactive guide from download to the first server connection. It's built entirely for the web: no screen recordings and no video files, just code that runs in the browser.
 
@@ -129,10 +129,10 @@ Interactive guide from download to the first server connection. It's built entir
 
 ### Windows Security Settings Animations
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://motion.dev)
 
 Troubleshooting help for the most common Windows problems when starting the game. Windows dialogs are recreated in React and walk the player through each fix.
 
@@ -152,7 +152,7 @@ Troubleshooting help for the most common Windows problems when starting the game
 
 ### Forum
 ![Legacy](https://img.shields.io/badge/Legacy-7C3AED?style=for-the-badge)
-![WoltLab Suite](https://img.shields.io/badge/WoltLab_Suite-1A5A96?style=for-the-badge)
+[![WoltLab Suite](https://img.shields.io/badge/WoltLab_Suite-1A5A96?style=for-the-badge)](https://www.woltlab.com)
 
 Custom design for the community forum, built on WoltLab Suite.
 
