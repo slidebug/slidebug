@@ -4,7 +4,7 @@ Hi, I'm a web developer and automation engineer from Hamburg. I like building cl
 
 # Stuff I did (projects)
 
-## Legacy
+## Legacy (closed source)
 
 **German open.mp server · 2024–2026 · 600 registered user accounts**
 
